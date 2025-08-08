@@ -13,8 +13,6 @@ Optimized Training: Implements best practices like early stopping and gradient c
 Model Performance
 The final model was trained for 5 epochs, with early stopping used to select the best-performing version based on the validation set. The final, unbiased scores were calculated on the held-out test set.
 
-Metric
-
 Score
 
 ROUGE-1
@@ -29,7 +27,7 @@ ROUGE-Lsum
 
 46.48
 
-🛠Setup and Installation
+Setup and Installation
 To run this project, you'll need Python 3.8+ and the required libraries.
 
 Usage
